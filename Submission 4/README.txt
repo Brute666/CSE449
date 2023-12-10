@@ -5,7 +5,7 @@ Unlisted YouTube video:
 http://youtube....
 
 Paper title:
-Interactive Musical Expression: Building a Decentralized Platform with High Performance Computing and Distributed Parallel Systems
+Building a decentralized Platform for Interactive Music Performance and Composition with Parallel Distributed and High Performance Computing
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1RBbFR3oWJ96MsCXQpwmBIQa-GDKLT2z06OkvO91lglc/edit#slide=id.gc6f8954bc_0_53
