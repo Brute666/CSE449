@@ -2,10 +2,10 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/5942649933tzxqsyjckgqm#503916
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/fAFYxoZTzKE?si=v7CvY3Fii_akYCqM
 
 Paper title:
-Building a decentralized Platform for Interactive Music Performance and Composition with Parallel Distributed and High Performance Computing
+Decentralized Platform for Interactive Music Performance with Parallel Distributed and High Performance Computing
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1RBbFR3oWJ96MsCXQpwmBIQa-GDKLT2z06OkvO91lglc/edit#slide=id.gc6f8954bc_0_53
